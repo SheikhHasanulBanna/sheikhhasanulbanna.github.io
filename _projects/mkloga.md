@@ -6,7 +6,7 @@ layout: single
 permalink: /projects/mkloga/
 excerpt: "A Bangla keyboard layout optimization project using **deep learning** and **genetic algorithms** based on the *Carpalx fitness function*"
 ---
-**Overview**
+**Overview**  
 A Bangla keyboard layout optimization project using **deep learning** and **genetic algorithms** based on the *Carpalx fitness function*.
 
 **Key Points**
