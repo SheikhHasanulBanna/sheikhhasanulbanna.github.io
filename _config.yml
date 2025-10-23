@@ -25,7 +25,7 @@ author:
   avatar           : "SheikhHasanulBanna.jpeg"
   name             : "Sheikh Hasanul Banna"
   pronouns         : # example: "she/her"  
-  bio              : "Graduated from CSE, BUET. Lecturer (CSE), BUET"
+  bio              : "Graduated from CSE, BUET. Lecturer (CSE), Presidency University"
   location         : "Dhaka, Bangladesh"
   education        : "Graduate, Bangladesh University of Engineering and Technology"
   employer         : "Presidency University"         
@@ -229,6 +229,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -303,7 +306,7 @@ timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap

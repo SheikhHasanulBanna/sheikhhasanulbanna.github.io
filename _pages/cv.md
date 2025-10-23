@@ -29,6 +29,7 @@ Presidency University, Bangladesh
 - Computer Security
 - Computer Networking
 - Digital Forensics
+- Blockchain
 - Human-Computer Interaction
 - Human-Centered Computing
 - Machine Learning
@@ -51,11 +52,11 @@ Presidency University, Bangladesh
 
 - *Field*: Cyber Security
 - *Supervisor*: Dr. Md. Shohrab Hossain
-- Submitted to *IEEE MILCOM* (Under Review).
 - Created a synthesized dataset from scraped Reddit posts.
 - Applied **LLM models** to classify posts containing potential vulnerabilities.
-- 📚**Paper Submission**: *RedditOSINT: Automated OSINT Collection from Reddit and Analysis Using Machine Learning*
-  - IEEE MILCOM 2025 (Under Review)
+- Findings: Small models like DistilBERT, TinyBERT performed better than Llama, GPT etc. These small models can be used to identify if any new post contains information regarding new vulnerabilities.
+- 📚**Publication**: *RedditOSINT: Automated OSINT Collection from Reddit and Analysis Using Machine Learning*
+  - International Conference on Emerging Trends in Cybersecurity (ICETCS 2025) - Accepted for publication
 
 ---
 
@@ -77,14 +78,16 @@ Presidency University, Bangladesh
 
 ---
 
-## 🌍 English Proficiency
+## 🌍 Proficiency Tests
 
+- **GRE:** 325
+  - Quantitative Analysis: 164 | Verbal Analysis: 161
 - **TOEFL iBT**: 111
   - Reading: 30 | Listening: 29 | Speaking: 26 | Writing: 26
 
 ---
 
-## 💻 Selected Projects
+## 💻 Completed Projects
 
 - **Integration of Attendance Record System into University’s Central Server** *(Bash, PuTTY, MySQL, PHP)*
   - Created automatic communication channel between fingerprint server and University’s EMS server.
