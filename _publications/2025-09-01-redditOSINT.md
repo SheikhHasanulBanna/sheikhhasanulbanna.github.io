@@ -1,11 +1,18 @@
 ---
 title: "RedditOSINT: Automated OSINT Collection from Reddit and Analysis Using Machine Learning"
 collection: publications
-permalink: /publication/redditosint-icetcs-2025
+category: conferences
 date: 2025-09-15
 venue: "International Conference on Emerging Trends in Cybersecurity (ICETCS 2025)"
-paperurl: /files/RedditOSINT_ICETCS2025.pdf
-citation: "Sheikh Hasanul Banna, *RedditOSINT: Automated OSINT Collection from Reddit and Analysis Using Machine Learning*, ICETCS 2025."
+paperurl: /files/OSINT_Kowser_Hasanul.pdf
+excerpt: 'This paper presents an automated OSINT collec-
+tion and analysis system that uses machine learning techniques to extract security-related information from Reddit and then finds out if certain post contains information about security vulnerability.'
 ---
+Under supervision of **Dr. Md. Shohrab Hossain**
 
-We present **RedditOSINT**, a system for automated open-source intelligence (OSINT) collection from Reddit and subsequent analysis using machine learning models to detect and categorize potential security-related information.
+* We created a synthesized dataset from scrapped reddit posts.
+* Then Applied LLM models to provide
+  verdict regarding if the posts contained potential vulnerabilities.
+* Small models like DistilBERT, TinyBERT performed
+  better than Llama, GPT etc.
+* These small models can be used to identify if any new post contains information regarding new vulnerabilities.
