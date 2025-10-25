@@ -8,7 +8,7 @@ permalink: /cv/
 Lecturer, Dept. of Computer Science & Engineering
 Presidency University, Bangladesh
 
-📧 sheikh_evan47@outlook.com
+📧 sheikhevan0@gmail.com
 🌐 [GitHub](https://github.com/SheikhHasanulBanna) | [LinkedIn](https://www.linkedin.com/in/sheikh-evan-75653a200/)
 
 📄 [Download Full CV (PDF)](/files/Sheikh_Hasanul_Banna_Academic_CV.pdf)
@@ -81,7 +81,7 @@ Presidency University, Bangladesh
 ## 🌍 Proficiency Tests
 
 - **GRE:** 325
-  - Quantitative Analysis: 164 | Verbal Analysis: 161
+  - Quantitative Analysis: 164 | Verbal Analysis: 161 | Analytical Writing: 5.0
 - **TOEFL iBT**: 111
   - Reading: 30 | Listening: 29 | Speaking: 26 | Writing: 26
 
