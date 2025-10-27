@@ -53,8 +53,8 @@ Presidency University, Bangladesh
 - *Field*: Cyber Security
 - *Supervisor*: Dr. Md. Shohrab Hossain
 - Created a synthesized dataset from scraped Reddit posts.
-- Applied **LLM models** to classify posts containing potential vulnerabilities.
-- Findings: Small models like DistilBERT, TinyBERT performed better than Llama, GPT etc. These small models can be used to identify if any new post contains information regarding new vulnerabilities.
+- Applied fine-tuned **LLM models** to classify posts containing potential vulnerabilities.
+- Findings: Small models like DistilBERT, TinyBERT performed with high accuracy in providing verdicts. These small models can be used to quickly identify if any new post contains information regarding new vulnerabilities.
 - 📚**Publication**: *RedditOSINT: Automated OSINT Collection from Reddit and Analysis Using Machine Learning*
   - International Conference on Emerging Trends in Cybersecurity (ICETCS 2025) - Accepted for publication
 

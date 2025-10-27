@@ -11,8 +11,7 @@ tion and analysis system that uses machine learning techniques to extract securi
 Under supervision of **Dr. Md. Shohrab Hossain**
 
 * We created a synthesized dataset from scrapped reddit posts.
-* Then Applied LLM models to provide
+* Then Applied fine-tuned LLM models to provide
   verdict regarding if the posts contained potential vulnerabilities.
-* Small models like DistilBERT, TinyBERT performed
-  better than Llama, GPT etc.
-* These small models can be used to identify if any new post contains information regarding new vulnerabilities.
+* Small models like DistilBERT, TinyBERT performed with high accuracy in providing verdicts
+* These small models can be used to quickly identify if any new post contains information regarding new vulnerabilities.

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sheikh Hasanul Banna: A passionate researcher of Computer Security and Networking"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,6 +15,18 @@ Now, I am applying my skills in an ML X Security project, detecting types of att
 Apart from my research, I am also fortunate enough to contribute to the academic community through teaching. I’m currently the instructor of undergraduate-level courses on Computer Networks and Security, Digital Logic Design, Compiler Design, Data Structure and Algorithms etc.
 
 In addition to my academic pursuits, I enjoy gaming, cycling, traveling, and watching sitcoms.
+
+---
+
+## 🔬 Research interests
+
+- Computer Security
+- Computer Networking
+- Digital Forensics
+- Blockchain
+- Human-Computer Interaction
+- Human-Centered Computing
+- Machine Learning
 
 ---
 
