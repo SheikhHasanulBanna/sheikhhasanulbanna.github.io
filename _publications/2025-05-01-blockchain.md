@@ -12,4 +12,4 @@ Under supervision of **Dr. Rezwana Reaz**
 • **My Contribution**: Conducted a survey on two groups for observing how they perceive the use of blockchain
 technology in Digital Financial services in terms security and usability. Then used Mann-Whitney U test to perform
 quantitative analysis to find out if they perceived any difference. Then concluded that the use of blockchain had a
-positive impact on perceived security but no significant difference was found for perceived usability.
+positive impact on perceived security but no significant difference was found for perceived usability.  

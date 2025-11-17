@@ -14,4 +14,5 @@ Under supervision of **Dr. Md. Shohrab Hossain**
 * Then Applied fine-tuned LLM models to provide
   verdict regarding if the posts contained potential vulnerabilities.
 * Small models like DistilBERT, TinyBERT performed with high accuracy in providing verdicts
-* These small models can be used to quickly identify if any new post contains information regarding new vulnerabilities.
+* These small models can be used to quickly identify if any new post contains information regarding new vulnerabilities.  
+[📄 Download Paper (PDF)]({{ site.baseurl }}{{ page.paperurl }})
