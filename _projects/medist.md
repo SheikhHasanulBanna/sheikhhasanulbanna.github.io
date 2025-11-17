@@ -24,13 +24,13 @@ A web portal that integrates medicine information, appointments booking with doc
 <div id="mklogaCarousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner rounded-2 shadow">
     <div class="carousel-item active">
-      <img src="/images/projects/medist/screenshot_1.png" class="d-block w-100" alt="Medist 1">
+      <img src="/images/projects/medist/Screenshot_1.png" class="d-block w-100" alt="Medist 1">
     </div>
     <div class="carousel-item">
-      <img src="/images/projects/medist/screenshot_2.png" class="d-block w-100" alt="Medist 2">
+      <img src="/images/projects/medist/Screenshot_2.png" class="d-block w-100" alt="Medist 2">
     </div>
     <div class="carousel-item">
-      <img src="/images/projects/medist/screenshot_3.png" class="d-block w-100" alt="Medist 3">
+      <img src="/images/projects/medist/Screenshot_3.png" class="d-block w-100" alt="Medist 3">
     </div>
   </div>
 

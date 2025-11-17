@@ -21,10 +21,10 @@ Designed and developed a 4 BIT MIPS that generated instructions bits and using A
 <div id="mklogaCarousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner rounded-2 shadow">
     <div class="carousel-item active">
-      <img src="/images/projects/mips/screenshot_1.png" class="d-block w-100" alt="MIPS 1">
+      <img src="/images/projects/mips/Screenshot_1.png" class="d-block w-100" alt="MIPS 1">
     </div>
     <div class="carousel-item">
-      <img src="/images/projects/mips/screenshot_2.png" class="d-block w-100" alt="MIPS 2">
+      <img src="/images/projects/mips/Screenshot_2.png" class="d-block w-100" alt="MIPS 2">
     </div>
   </div>
 

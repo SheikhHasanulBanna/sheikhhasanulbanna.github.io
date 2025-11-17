@@ -25,10 +25,10 @@ Implemented Westwood BR and modified the congestion window updation algorithm an
 <div id="mklogaCarousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner rounded-2 shadow">
     <div class="carousel-item active">
-      <img src="/images/projects/westwood/screenshot_1.png" class="d-block w-100" alt="Westwood output Layout 1">
+      <img src="/images/projects/westwood/Screenshot_1.png" class="d-block w-100" alt="Westwood output Layout 1">
     </div>
     <div class="carousel-item">
-      <img src="/images/projects/westwood/screenshot_2.png" class="d-block w-100" alt="westwood output Layout 2">
+      <img src="/images/projects/westwood/Screenshot_2.png" class="d-block w-100" alt="westwood output Layout 2">
     </div>
   </div>
 

@@ -23,10 +23,10 @@ Implemented basic Christofide's algorithm for TSP, simulated annealing, and a ne
 <div id="mklogaCarousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner rounded-2 shadow">
     <div class="carousel-item active">
-      <img src="/images/projects/tsp/screenshot_1.png" class="d-block w-100" alt="TSP 1">
+      <img src="/images/projects/tsp/Screenshot_1.png" class="d-block w-100" alt="TSP 1">
     </div>
     <div class="carousel-item">
-      <img src="/images/projects/tsp/screenshot_2.png" class="d-block w-100" alt="TSP 2">
+      <img src="/images/projects/tsp/Screenshot_2.png" class="d-block w-100" alt="TSP 2">
     </div>
   </div>
 

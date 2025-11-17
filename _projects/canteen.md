@@ -22,10 +22,10 @@ A token-based canteen ordering system using Arduino, RFID, and Python–MySQL co
 <div id="mklogaCarousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner rounded-2 shadow">
     <div class="carousel-item active">
-      <img src="/images/projects/canteen/screenshot_1.png" class="d-block w-100" alt="Canteen 1">
+      <img src="/images/projects/canteen/Screenshot_1.png" class="d-block w-100" alt="Canteen 1">
     </div>
     <div class="carousel-item">
-      <img src="/images/projects/canteen/screenshot_2.png" class="d-block w-100" alt="Canteen 2">
+      <img src="/images/projects/canteen/Screenshot_2.png" class="d-block w-100" alt="Canteen 2">
     </div>
   </div>
 

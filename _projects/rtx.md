@@ -21,7 +21,7 @@ A C++ and OpenGL project that generates 3D objects (spheres, pyramids, etc.) wit
 <div id="mklogaCarousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner rounded-2 shadow">
     <div class="carousel-item active">
-      <img src="/images/projects/rtx/screenshot_1.png" class="d-block w-100" alt="Ray Tracing 1">
+      <img src="/images/projects/rtx/Screenshot_1.png" class="d-block w-100" alt="Ray Tracing 1">
     </div>
   </div>
 

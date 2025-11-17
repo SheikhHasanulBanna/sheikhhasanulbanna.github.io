@@ -23,10 +23,10 @@ Built all 4 main functionalities of a compiler from scratch.
 <div id="mklogaCarousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner rounded-2 shadow">
     <div class="carousel-item active">
-      <img src="/images/projects/compiler/screenshot_1.png" class="d-block w-100" alt="Compiler 1">
+      <img src="/images/projects/compiler/Screenshot_1.png" class="d-block w-100" alt="Compiler 1">
     </div>
     <div class="carousel-item">
-      <img src="/images/projects/compiler/screenshot_2.png" class="d-block w-100" alt="Compiler 2">
+      <img src="/images/projects/compiler/Screenshot_2.png" class="d-block w-100" alt="Compiler 2">
     </div>
   </div>
 

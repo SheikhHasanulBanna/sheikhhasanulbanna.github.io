@@ -21,13 +21,13 @@ A Bangla keyboard layout optimization project using **deep learning** and **gene
 <div id="mklogaCarousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner rounded-2 shadow">
     <div class="carousel-item active">
-      <img src="/images/projects/mkloga/screenshot_1.png" class="d-block w-100" alt="MKLOGA Keyboard Layout 1">
+      <img src="/images/projects/mkloga/Screenshot_1.png" class="d-block w-100" alt="MKLOGA Keyboard Layout 1">
     </div>
     <div class="carousel-item">
-      <img src="/images/projects/mkloga/screenshot_2.png" class="d-block w-100" alt="MKLOGA Keyboard Layout 2">
+      <img src="/images/projects/mkloga/Screenshot_2.png" class="d-block w-100" alt="MKLOGA Keyboard Layout 2">
     </div>
     <div class="carousel-item">
-      <img src="/images/projects/mkloga/screenshot_3.png" class="d-block w-100" alt="MKLOGA Keyboard Layout 3">
+      <img src="/images/projects/mkloga/Screenshot_3.png" class="d-block w-100" alt="MKLOGA Keyboard Layout 3">
     </div>
   </div>
 

@@ -22,10 +22,10 @@ Used the Gobuster Content Discovery tool to explore hidden directories under for
 <div id="mklogaCarousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner rounded-2 shadow">
     <div class="carousel-item active">
-      <img src="/images/projects/gobuster/screenshot_1.png" class="d-block w-100" alt="Gobuster 1">
+      <img src="/images/projects/gobuster/Screenshot_1.png" class="d-block w-100" alt="Gobuster 1">
     </div>
     <div class="carousel-item">
-      <img src="/images/projects/gobuster/screenshot_2.png" class="d-block w-100" alt="Gobuster 2">
+      <img src="/images/projects/gobuster/Screenshot_2.png" class="d-block w-100" alt="Gobuster 2">
     </div>
   </div>
 
