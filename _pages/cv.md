@@ -9,7 +9,7 @@ Lecturer, Dept. of Computer Science & Engineering
 Presidency University, Bangladesh
 
 📧 sheikhevan0@gmail.com
-🌐 [GitHub](https://github.com/SheikhHasanulBanna) | [LinkedIn](https://www.linkedin.com/in/sheikh-evan-75653a200/)
+🌐 [GitHub](https://github.com/SheikhHasanulBanna) | [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=N2rJ4HAAAAAJ)
 
 📄 [Download Full CV (PDF)](/files/Sheikh_Hasanul_Banna_Academic_CV.pdf)
 
