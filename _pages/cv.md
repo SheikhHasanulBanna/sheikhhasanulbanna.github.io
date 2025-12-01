@@ -65,6 +65,7 @@ Presidency University, Bangladesh
 **Lecturer — Dept. of Computer Science & Engineering**Presidency University, Dhaka*Oct 2024 – Present*
 
 - Courses taught: Computer Networks & Security, Digital Logic Design, Database Systems, Compiler Design, Data Structures & Algorithms
+- Mentoring students in **cybersecurity research**.
 - Awarded **Best Teacher** multiple times for excellence in teaching and dedication.
 
 ---
