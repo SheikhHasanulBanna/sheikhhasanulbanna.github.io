@@ -3,7 +3,7 @@ title: "Implement Raytracing For Simple Scenes"
 collection: projects
 author_profile: true
 layout: single
-permalink: /projects/compiler/
+permalink: /projects/rtx/
 excerpt: "A C++ and OpenGL project that generates 3D objects (spheres, pyramids, etc.) with implemented lighting, ray tracing, and camera movement for interactive visualization."
 ---
 **Overview**  
