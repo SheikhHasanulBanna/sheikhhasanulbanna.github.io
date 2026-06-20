@@ -6,8 +6,8 @@ layout: single
 permalink: /projects/mips/
 excerpt: "Designed and developed a 4 BIT MIPS that generated instructions bits and using ATMEGA-32 sent the instructions to Basic ICs for complete execution of the instrucions."
 ---
-**Overview**  
-Designed and developed a 4 BIT MIPS that generated instructions bits and using ATMEGA-32 sent the instructions to Basic ICs for complete execution of the instrucions.
+**Overview**
+Designed and developed a 4 BIT MIPS that generated instructions bits and using ATMEGA-32 sent the instructions to Basic ICs for complete execution of the instructions.
 
 **Key Points**
 
